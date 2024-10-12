@@ -1,0 +1,10 @@
+name="ulker"
+print(name)
+age=20
+print(age)
+age=20
+new_age=20+1
+print(new_age)
+is_student="true"
+print(is_student)
+
